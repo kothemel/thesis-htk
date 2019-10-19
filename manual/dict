@@ -1,0 +1,14 @@
+APPLAUSE    [APPLAUSE]    ap
+CHAIRMOVING [CHAIRMOVING] cm
+COUGH       [COUGH]       co
+DOORSLAM    [DOORSLAM]    ds
+KEYBOARD    [KEYBOARD]    kt
+KEYJINGLE   [KEYJINGLE]   kj
+KNOCK       [KNOCK]       kn
+PAPERWORK   [PAPERWORK]   pw
+PHONE       [PHONE]       pr
+SENT-END 	[]			  sil
+SENT-START  []            sil
+SPEECH      [SPEECH]      spe
+SPOON       [SPOON]       cl
+STEPS       [STEPS]       st

@@ -1,0 +1,40 @@
+WARNING: no script file ../lexicon/voxforge_lexicon.ded
+Missing Words
+-------------
+APPLAUSE
+CHAIRMOVING
+DOORSLAM
+KEYJINGLE
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+voxforge_lex     23229          8      23270          8
+        dict         8          8          8          8
+
+12 words required, 4 missing
+
+New Phone Usage Counts
+---------------------
+  1. k     :     4
+  2. ao    :     1
+  3. f     :     2
+  4. sp    :     8
+  5. iy    :     2
+  6. b     :     1
+  7. ow    :     2
+  8. r     :     1
+  9. d     :     1
+ 10. n     :     3
+ 11. aa    :     1
+ 12. p     :     5
+ 13. ey    :     1
+ 14. er    :     2
+ 15. w     :     1
+ 16. s     :     4
+ 17. ch    :     1
+ 18. uw    :     1
+ 19. t     :     1
+ 20. eh    :     1
+
+Dictionary dict created

@@ -1,0 +1,7 @@
+for i in range (5,8):
+	with open("files"+str(i)+".txt") as textfile1, open("s0"+str(i)+".txt") as textfile2: 
+	    for x, y in zip(textfile1, textfile2):
+	        x = x.strip()
+	        y = y.strip()
+	        f=open(x,'w+')
+	        f.write(y)

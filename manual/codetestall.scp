@@ -1,0 +1,4 @@
+../test_entire_s08/wav/S08_part1.wav   ../test_entire_s08/mfcc/S08_part1.mfc
+../test_entire_s08/wav/S08_part2.wav   ../test_entire_s08/mfcc/S08_part2.mfc
+../test_entire_s08/wav/S08_part3.wav   ../test_entire_s08/mfcc/S08_part3.mfc
+../test_entire_s08/wav/S08_part4.wav   ../test_entire_s08/mfcc/S08_part4.mfc
